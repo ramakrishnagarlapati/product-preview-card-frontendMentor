@@ -1,4 +1,4 @@
-<img src="https://github.com/ramakrishnagarlapati/product-preview-card-frontendMentor/blob/main/images/image-product-desktop.jpg"></img>
+<img src="C:\Users\ramak\OneDrive\Desktop\front-end-mentor-projects\product-preview-card-component-main\design\desktop-preview.jpg"></img>
 
 <h1 align="center">Product preview card component
 </h1>
